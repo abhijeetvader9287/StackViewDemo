@@ -301,6 +301,7 @@
 				135F940D1EDD87B100C56F03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
